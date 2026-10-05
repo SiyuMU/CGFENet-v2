@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+# Dataset cache: rebuilt from the raw simulation files, far too large to track.
+cache/
+
+# Manuscript PDFs.
+*.[pP][dD][fF]
+
+# Tool caches and macOS metadata.
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
